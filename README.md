@@ -3,7 +3,6 @@
 ## 👤 About Me
 * 🎓 Currently studying in Computer Engineering at KMUTT, Thailand. I'm also a Petchra Pra Jom Klao Scholarship student.
 * 💻 Main Focus on Website🌐, Mobile📱, Game development👾, and LINE-APIs💬
-  * Prefer Frontend but have experiences in the entire development process (Front, Back, DevOps)
   * Enjoy converting Design into real-world interactive app
   * Interested in Gamification design.
 ## 💻 Skills:
