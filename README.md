@@ -3,7 +3,7 @@
 ## 👤 About Me
 * 🎓 Currently studying in Computer Engineering at KMUTT, Thailand. I'm also a Petchra Pra Jom Klao Scholarship student.
 * 💻 Main Focus on Website🌐, Mobile📱, Game development👾, 3D Web, and LINE-APIs💬
-  * Falling in love with WebGL 
+  * Falling in love with React Three Fiber
   * Enjoy converting Design into real-world interactive app
   * Interested in Gamification design.
 ## 💻 Skills:
