@@ -2,7 +2,6 @@
 Software Developer and Computer Engineering Student from Thailand 🇹🇭
 
 ### 🎓 About Me
-* Currently studying third-year of Computer Engineering at KMUTT, Thailand. 
 * Experienced in Website, Game development, 3D Web, and Chatbot
   * Learning in Computer Graphic, 3D Simulation, AI, Cloud
   * Interested in Gamification Design
